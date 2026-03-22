@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently persuing Computer Engineering<br><br>👯 I’m looking to collaborate on full-stack development, and innovative student ideas<br><br>🌱 I’m currently learning Object-Oriented Programming and AI <br><br>💬 Ask me about Full-stack development, Figma designs<br><br>⚡ Fun fact :I enjoy building practical projects that solve real-life problems 🚀<br>🤝 I’m looking for help with Exploring advanced AI features and real-world integrations<br>
+🔭 I’m currently persuing Computer Engineering<br>👯 I’m looking to collaborate on full-stack development, and innovative student ideas<br>🌱 I’m currently learning Object-Oriented Programming and AI <br>💬 Ask me about Full-stack development, Figma designs<br>⚡ Fun fact :I enjoy building practical projects that solve real-life problems 🚀<br>🤝 I’m looking for help with Exploring advanced AI features and real-world integrations<br>
 
 
 ## 🌐 Socials:
